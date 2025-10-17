@@ -1,2 +1,7 @@
-# TCG_Data_Visualization-
-This repository contains R code used in the visualization of client data for The Clark Group, LLC. The code and visualizations are experimental and were developed independently by me for exploratory purposes. They do not represent the official views, tools, or products of The Clark Group, LLC.
+# Data for infographics
+Experiemental data visualizations developed to creatively share information about clients, outputs, and accomplishments.
+
+## R
+- a folder containing R script written by Carol (August) Gause.
+## Output
+- A folder with results.
